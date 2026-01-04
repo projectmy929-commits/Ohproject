@@ -1,0 +1,34 @@
+body {
+  background-color: #0d0d0d;
+  color: #e0e0e0;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+section {
+  padding: 30px 20px;
+  border-bottom: 1px solid #222;
+}
+
+h1, h2 {
+  color: #9f9f9f;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 14px;
+  color: #777;
+}<section>
+  <h2>Dark Reality</h2>
+  <p>
+    Society doesn't reward truth, it rewards convenience.
+    Those who think deeply are often called mad.
+  </p>
+</section>
